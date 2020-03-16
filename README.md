@@ -106,8 +106,8 @@ How to get support
 - If you are having issues, please let us know.
 - Email:
 - Chintan: chintan.rank001@umb.edu
-- Karthik: azamahmad.khan001@umb.edu 
-- Yuxuan: monal.rupapara001@umb.edu
+- Azam: azamahmad.khan001@umb.edu 
+- Monal: monal.rupapara001@umb.edu
 
 
 Coding Standard:
